@@ -1,0 +1,33 @@
+OBJECTID,UCL_CODE21,UCL_NAME21,SSR_CODE21,SSR_NAME21,SOS_CODE21,SOS_NAME21,STE_CODE21,STE_NAME21,AUS_CODE21,AUS_NAME21,AREASQKM21,LOCI_URI21,ORIG_FID,Longitude,Latitude
+1,101001,Sydney,101,1 million or more,10,Major Urban,1,New South Wales,AUS,Australia,2194.1731,https://linked.data.gov.au/dataset/asgsed3/UCL/101001,0,150.9669272,-33.84169335
+2,102001,Canberra - Queanbeyan (Queanbeyan Part),102,"250,000 to 999,999",10,Major Urban,1,New South Wales,AUS,Australia,28.7867,https://linked.data.gov.au/dataset/asgsed3/UCL/102001,1,149.2202288,-35.36641757
+3,102002,Central Coast,102,"250,000 to 999,999",10,Major Urban,1,New South Wales,AUS,Australia,332.9065,https://linked.data.gov.au/dataset/asgsed3/UCL/102002,2,151.4287681,-33.36600716
+4,102003,Gold Coast - Tweed Heads (Tweed Heads Part),102,"250,000 to 999,999",10,Major Urban,1,New South Wales,AUS,Australia,67.678,https://linked.data.gov.au/dataset/asgsed3/UCL/102003,3,153.5295947,-28.22236937
+5,102004,Newcastle,102,"250,000 to 999,999",10,Major Urban,1,New South Wales,AUS,Australia,296.9898,https://linked.data.gov.au/dataset/asgsed3/UCL/102004,4,151.6772346,-32.95099103
+6,102005,Wollongong,102,"250,000 to 999,999",10,Major Urban,1,New South Wales,AUS,Australia,224.4836,https://linked.data.gov.au/dataset/asgsed3/UCL/102005,5,150.8460462,-34.47148985
+7,111001,Albury - Wodonga (Albury Part),111,"50,000 to 99,999",11,Other Urban,1,New South Wales,AUS,Australia,74.9112,https://linked.data.gov.au/dataset/asgsed3/UCL/111001,6,146.9488275,-36.05031132
+8,111002,Coffs Harbour,111,"50,000 to 99,999",11,Other Urban,1,New South Wales,AUS,Australia,77.9672,https://linked.data.gov.au/dataset/asgsed3/UCL/111002,7,153.0957382,-30.31229775
+9,111003,Maitland (NSW),111,"50,000 to 99,999",11,Other Urban,1,New South Wales,AUS,Australia,122.9001,https://linked.data.gov.au/dataset/asgsed3/UCL/111003,8,151.5871754,-32.75008972
+537,201001,Melbourne,201,1 million or more,20,Major Urban,2,Victoria,AUS,Australia,2880.5725,https://linked.data.gov.au/dataset/asgsed3/UCL/201001,538,145.0770243,-37.89253777
+538,203001,Ballarat,203,"100,000 to 249,999",20,Major Urban,2,Victoria,AUS,Australia,132.2364,https://linked.data.gov.au/dataset/asgsed3/UCL/203001,539,143.8417196,-37.56650124
+539,203002,Bendigo,203,"100,000 to 249,999",20,Major Urban,2,Victoria,AUS,Australia,162.3864,https://linked.data.gov.au/dataset/asgsed3/UCL/203002,540,144.285135,-36.75669017
+540,203003,Geelong,203,"100,000 to 249,999",20,Major Urban,2,Victoria,AUS,Australia,165.5844,https://linked.data.gov.au/dataset/asgsed3/UCL/203003,541,144.3573345,-38.16573766
+541,211001,Albury - Wodonga (Wodonga Part),211,"50,000 to 99,999",21,Other Urban,2,Victoria,AUS,Australia,54.1941,https://linked.data.gov.au/dataset/asgsed3/UCL/211001,542,146.8823129,-36.12244957
+542,211002,Melton,211,"50,000 to 99,999",21,Other Urban,2,Victoria,AUS,Australia,57.1001,https://linked.data.gov.au/dataset/asgsed3/UCL/211002,543,144.580835,-37.69401855
+882,301001,Brisbane,301,1 million or more,30,Major Urban,3,Queensland,AUS,Australia,2026.9222,https://linked.data.gov.au/dataset/asgsed3/UCL/301001,885,153.0120161,-27.47484321
+883,302001,Gold Coast - Tweed Heads (Gold Coast Part),302,"250,000 to 999,999",30,Major Urban,3,Queensland,AUS,Australia,552.7077,https://linked.data.gov.au/dataset/asgsed3/UCL/302001,886,153.350817,-27.97199076
+884,302002,Sunshine Coast,302,"250,000 to 999,999",30,Major Urban,3,Queensland,AUS,Australia,368.7256,https://linked.data.gov.au/dataset/asgsed3/UCL/302002,887,153.0692161,-26.61830059
+885,303001,Cairns,303,"100,000 to 249,999",30,Major Urban,3,Queensland,AUS,Australia,198.5773,https://linked.data.gov.au/dataset/asgsed3/UCL/303001,888,145.7207678,-16.89785818
+886,303002,Toowoomba,303,"100,000 to 249,999",30,Major Urban,3,Queensland,AUS,Australia,119.9124,https://linked.data.gov.au/dataset/asgsed3/UCL/303002,889,151.9304383,-27.56750198
+887,303003,Townsville,303,"100,000 to 249,999",30,Major Urban,3,Queensland,AUS,Australia,265.9586,https://linked.data.gov.au/dataset/asgsed3/UCL/303003,890,146.7467905,-19.2753474
+888,311001,Bundaberg,311,"50,000 to 99,999",31,Other Urban,3,Queensland,AUS,Australia,104.3933,https://linked.data.gov.au/dataset/asgsed3/UCL/311001,891,152.3231928,-24.88908346
+889,311002,Hervey Bay,311,"50,000 to 99,999",31,Other Urban,3,Queensland,AUS,Australia,93.2156,https://linked.data.gov.au/dataset/asgsed3/UCL/311002,892,152.8129816,-25.29166338
+890,311003,Mackay,311,"50,000 to 99,999",31,Other Urban,3,Queensland,AUS,Australia,135.9538,https://linked.data.gov.au/dataset/asgsed3/UCL/311003,893,149.1749889,-21.10276848
+891,311004,Rockhampton,311,"50,000 to 99,999",31,Other Urban,3,Queensland,AUS,Australia,95.7052,https://linked.data.gov.au/dataset/asgsed3/UCL/311004,894,150.5142407,-23.34540628
+1294,401001,Adelaide,401,1 million or more,40,Major Urban,4,South Australia,AUS,Australia,854.2792,https://linked.data.gov.au/dataset/asgsed3/UCL/401001,1299,138.5885218,-34.92056636
+1466,501001,Perth (WA),501,1 million or more,50,Major Urban,5,Western Australia,AUS,Australia,1720.3492,https://linked.data.gov.au/dataset/asgsed3/UCL/501001,1473,115.8722629,-32.03934689
+1467,511001,Bunbury,511,"50,000 to 99,999",51,Other Urban,5,Western Australia,AUS,Australia,117.4,https://linked.data.gov.au/dataset/asgsed3/UCL/511001,1474,115.6756301,-33.33903827
+1643,603001,Hobart,603,"100,000 to 249,999",60,Major Urban,6,Tasmania,AUS,Australia,237.263,https://linked.data.gov.au/dataset/asgsed3/UCL/603001,1652,147.3490235,-42.84653321
+1644,611001,Launceston,611,"50,000 to 99,999",61,Other Urban,6,Tasmania,AUS,Australia,95.1084,https://linked.data.gov.au/dataset/asgsed3/UCL/611001,1653,147.1371575,-41.4398135
+1738,703001,Darwin,703,"100,000 to 249,999",70,Major Urban,7,Northern Territory,AUS,Australia,240.3244,https://linked.data.gov.au/dataset/asgsed3/UCL/703001,1749,130.9342033,-12.44358785
+1809,802001,Canberra - Queanbeyan (Canberra Part),802,"250,000 to 999,999",80,Major Urban,8,Australian Capital Territory,AUS,Australia,392.9671,https://linked.data.gov.au/dataset/asgsed3/UCL/802001,1822,149.1066535,-35.30277922

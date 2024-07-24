@@ -7,7 +7,7 @@
 #-----
 
 # for all locations
-coords_file="/g/data/mn51/users/gt3409/plotting_maps/UCL_2021_AUST_top_33_coords_only.csv"
+coords_file="/g/data/mn51/users/gt3409/TimeSeriesExtraction/UCL_2021_AUST_top_33_coords_only.csv"
 
 commonpath="/g/data/ia39/australian-climate-service/test-data/CORDEX-CMIP6/bias-adjustment-output/AGCD-05i"
 var="tasminAdjust"
@@ -53,7 +53,7 @@ done } < ${coords_file}
 #-----
 
 # for all locations
-coords_file="/g/data/mn51/users/gt3409/plotting_maps/UCL_2021_AUST_top_33_coords_only.csv"
+coords_file="/g/data/mn51/users/gt3409/TimeSeriesExtraction/UCL_2021_AUST_top_33_coords_only.csv"
 
 commonpath="/g/data/ia39/australian-climate-service/test-data/CORDEX-CMIP6/bias-adjustment-output/AGCD-05i"
 var="tasmaxAdjust"

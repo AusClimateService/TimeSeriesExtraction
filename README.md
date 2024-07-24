@@ -1,2 +1,4 @@
 # TimeSeriesExtraction
-Extracting timeseries from many models from point locations
+Extracting time series from many models from point locations
+
+
